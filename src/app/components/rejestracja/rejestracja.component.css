@@ -1,0 +1,12 @@
+.page-section {
+  min-height: 40vh;
+}
+
+.bg_calculator {
+  background-color: #b6ff00;
+}
+
+/* Mark the steps that are finished and valid: */
+.step.finish {
+  background-color: #b6ff00;
+}
